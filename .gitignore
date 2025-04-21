@@ -1,3 +1,5 @@
 data
 .DS_Store
 SIFT_coco.ipynb
+best_model.pt
+output.png
