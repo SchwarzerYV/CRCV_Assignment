@@ -1,4 +1,5 @@
 data
+__pycache__
 .DS_Store
 SIFT_coco.ipynb
 output.png
