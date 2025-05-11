@@ -1,0 +1,9 @@
+Network,Dataset,No Augmentation,Rotation and Cropping,ColorJitter and RandomPerspective
+Self-CNN,CIFAR-10,67.8,71.6,56.4
+ResNet-18,CIFAR-10,83.7,85.4,76.5
+ResNet-50,CIFAR-10,87.3,88.1,74.2
+Self-CNN,iCubWorld 1.0,51.8,55.4,49.4
+ResNet-18,iCubWorld 1.0,74.7,76.3,72.3
+ResNet-50,iCubWorld 1.0,83.3,89.1,72.7
+0.056，0.020，0.009，0.069，0.021，0.070
+0.168，0.086，0.15，0.046，0.032，0.127
